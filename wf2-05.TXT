@@ -1,3 +1,0 @@
-vmess://ws+tls:2559147f-99c3-4e0f-877b-6383a7cee49f-0@190.93.244.208:443/?host=fd18.dfdgr.ga&path=/egbnvws&allowInsecure=true&tlsServerName=fd18.dfdgr.ga#wf2-05
-
-vless://2559147f-99c3-4e0f-877b-6383a7cee49f@190.93.244.208:443?type=ws&security=tls&path=%2Fegbnws&host=fd18.dfdgr.ga&sni=fd18.dfdgr.ga&alpn=fd18.dfdgr.ga#wf2-05
